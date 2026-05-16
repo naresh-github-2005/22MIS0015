@@ -16,7 +16,7 @@ const Log = async (stack, level, packageName, message) => {
             },
             {
                 headers: {
-                    Authorization: `Bearer ${process.env.ACCESS_TOKEN.trim()}`,
+                    Authorization: `Bearer ${process.env.ACCESS_TOKEN}`,
                     "Content-Type": "application/json"
                 }
             }

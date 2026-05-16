@@ -1,0 +1,182 @@
+PS D:\22MIS0015> node vehicle_maintenance_scheduler/solution.js
+undefined
+◇ injected env (3) from .env // tip: ⌘ override existing { override: true }
+Logging Error: { message: 'unsupported package for provided web stack' }
+Logging Error: { message: 'unsupported package for provided web stack' }
+{
+  "totalMechanicHours": 584,
+  "totalDurationUsed": 146,
+  "totalImpact": 213,
+  "selectedTasks": [
+    {
+      "TaskID": "d092e5d5-67f0-42c4-926b-efd674734738",
+      "Duration": 8,
+      "Impact": 1
+    },
+    {
+      "TaskID": "a01dfa23-ff10-42dc-b9de-d7545ca9ddf1",
+      "Duration": 4,
+      "Impact": 9
+    },
+    {
+      "TaskID": "8601d2d3-c542-4b04-ad6f-382469a931f9",
+      "Duration": 6,
+      "Impact": 10
+    },
+    {
+      "TaskID": "8ee13cc6-4572-463d-a83e-c75893788e5a",
+      "Duration": 8,
+      "Impact": 7
+    },
+    {
+      "TaskID": "dd7651d8-8f4f-496e-81b0-ac1c8f1fc60c",
+      "Duration": 2,
+      "Impact": 8
+    },
+    {
+      "TaskID": "6e7da6d1-05dc-479c-97d1-c1e62f4fbd28",
+      "Duration": 3,
+      "Impact": 10
+    },
+    {
+      "TaskID": "f682ae72-229e-4792-821c-97852554db87",
+      "Duration": 4,
+      "Impact": 10
+    },
+    {
+      "TaskID": "da2b7cb0-7eeb-49d4-9d6e-060480f56bd0",
+      "Duration": 4,
+      "Impact": 10
+    },
+    {
+      "TaskID": "343d0dcc-5bd3-4ad2-a7c7-24ddf150932b",
+      "Duration": 5,
+      "Impact": 1
+    },
+    {
+      "TaskID": "7cc1ce37-c778-44e4-8e33-a759fa1627dd",
+      "Duration": 2,
+      "Impact": 10
+    },
+    {
+      "TaskID": "927848b3-68b7-49ea-9fc2-dbfef914adb7",
+      "Duration": 6,
+      "Impact": 8
+    },
+    {
+      "TaskID": "71012b86-9d15-4f7d-92a3-e37f23ddc5c3",
+      "Duration": 4,
+      "Impact": 4
+    },
+    {
+      "TaskID": "d152d7b4-4962-46fb-8b3a-60fbc66d1d5f",
+      "Duration": 1,
+      "Impact": 1
+    },
+    {
+      "TaskID": "de87c706-fa18-4936-a1cf-37427d319397",
+      "Duration": 1,
+      "Impact": 6
+    },
+    {
+      "TaskID": "1e34761d-356e-4818-9553-c59767ca1111",
+      "Duration": 2,
+      "Impact": 8
+    },
+    {
+      "TaskID": "abdbef68-5526-48f5-ac2c-32473e691f14",
+      "Duration": 4,
+      "Impact": 3
+    },
+    {
+      "TaskID": "ed85b2f8-6cff-41a1-83f3-b01e0e7652d8",
+      "Duration": 8,
+      "Impact": 6
+    },
+    {
+      "TaskID": "1a29c3a6-ce3f-4bba-b020-e0620a9b072c",
+      "Duration": 3,
+      "Impact": 10
+    },
+    {
+      "TaskID": "a9cb688c-bab3-48a7-8025-fd1f4c969772",
+      "Duration": 3,
+      "Impact": 5
+    },
+    {
+      "TaskID": "0f8253f3-4a7e-4790-97df-fa7cff861e34",
+      "Duration": 4,
+      "Impact": 9
+    },
+    {
+      "TaskID": "218c05a8-a542-434a-b627-0f3dd96f69fc",
+      "Duration": 3,
+      "Impact": 4
+    },
+    {
+      "TaskID": "b41c1200-1418-490c-9bb1-85ec176326a5",
+      "Duration": 8,
+      "Impact": 1
+    },
+    {
+      "TaskID": "eda1c3f3-c5a3-4a2d-b009-8afa7fb0ab96",
+      "Duration": 2,
+      "Impact": 9
+    },
+    {
+      "TaskID": "cde0769f-0742-4930-b77c-f16f1b4da6a1",
+      "Duration": 1,
+      "Impact": 9
+    },
+    {
+      "TaskID": "fbe231ee-ef76-470e-b6e7-93dc9db311e9",
+      "Duration": 4,
+      "Impact": 8
+    },
+    {
+      "TaskID": "a3d9f621-bda6-4d1d-8af4-95cb6af1b483",
+      "Duration": 5,
+      "Impact": 3
+    },
+    {
+      "TaskID": "aaa30123-a1ef-4bc7-8355-11461a973a08",
+      "Duration": 4,
+      "Impact": 3
+    },
+    {
+      "TaskID": "10c9b6f0-3953-4df0-a78c-a0c186a22a7c",
+      "Duration": 8,
+      "Impact": 4
+    },
+    {
+      "TaskID": "237059e2-7c5f-49eb-b4f1-6a8dd73d2718",
+      "Duration": 8,
+      "Impact": 7
+    },
+    {
+      "TaskID": "510c97ca-1704-452e-bd1b-a1f6b50a9b79",
+      "Duration": 4,
+      "Impact": 8
+    },
+    {
+      "TaskID": "d5983ee7-7df0-42cc-8e4d-38a6782cfbc8",
+      "Duration": 2,
+      "Impact": 6
+    },
+    {
+      "TaskID": "e03c969a-f799-4602-a780-716e1ec7965b",
+      "Duration": 1,
+      "Impact": 6
+    },
+    {
+      "TaskID": "cd6e8fc5-bd62-4645-b436-195c34fe8d22",
+      "Duration": 7,
+      "Impact": 6
+    },
+    {
+      "TaskID": "4f5e012e-38fc-4f52-9735-fa6b4486bc28",
+      "Duration": 7,
+      "Impact": 3
+    }
+  ]
+}
