@@ -31,6 +31,7 @@ The application integrates with protected APIs using Bearer Token authentication
 │   └── package.json
 
 ├── screenshots/
+
 ├── notification_system_design.md
 └── .gitignore
 
