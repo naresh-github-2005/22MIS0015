@@ -1,0 +1,65 @@
+PS D:\22MIS0015> node notification_app_be/priorityInbox.js          
+◇ injected env (3) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+Logging Error: { message: 'unsupported package for provided web stack' }
+[
+  {
+    "ID": "b79bc11e-29ca-4219-bce9-ca522c176f12",
+    "Type": "Placement",
+    "Message": "Microsoft Corporation hiring",
+    "Timestamp": "2026-05-16 09:16:41"
+  },
+  {
+    "ID": "f34d2837-c36f-4649-a238-996a5a055823",
+    "Type": "Placement",
+    "Message": "Visa Inc. hiring",
+    "Timestamp": "2026-05-16 09:15:24"
+  },
+  {
+    "ID": "4f3985bc-4433-4f55-ad2d-9cdebe789a5e",
+    "Type": "Placement",
+    "Message": "Nvidia Corporation hiring",
+    "Timestamp": "2026-05-16 05:45:35"
+  },
+  {
+    "ID": "0605c437-97bb-417e-bb50-af045833d64d",
+    "Type": "Placement",
+    "Message": "TSMC hiring",
+    "Timestamp": "2026-05-16 05:18:09"
+  },
+  {
+    "ID": "784a0277-a950-4731-95c0-77d5d3373663",
+    "Type": "Placement",
+    "Message": "Microsoft Corporation hiring",
+    "Timestamp": "2026-05-16 01:47:03"
+  },
+  {
+    "ID": "8e4d4f0d-1763-4be5-9674-cb176b9b0ba2",
+    "Type": "Placement",
+    "Message": "Broadcom Inc. hiring",
+    "Timestamp": "2026-05-15 22:17:36"
+  },
+  {
+    "ID": "11efed3a-670b-4b8c-916f-977da26f81d2",
+    "Type": "Placement",
+    "Message": "Eli Lilly and Company hiring",
+    "Timestamp": "2026-05-15 20:18:42"
+  },
+  {
+    "ID": "9c9aed83-1322-495a-9f3e-261a627cf47a",
+    "Type": "Placement",
+    "Message": "Amazon.com Inc. hiring",
+    "Timestamp": "2026-05-15 12:48:53"
+  },
+  {
+    "ID": "19c0659b-b288-4102-8d6b-9446be0e258b",
+    "Type": "Result",
+    "Message": "external",
+    "Timestamp": "2026-05-16 08:16:30"
+  },
+  {
+    "ID": "0a279a3b-f321-4abd-8051-c21a5d8f0e35",
+    "Type": "Result",
+    "Message": "internal",
+    "Timestamp": "2026-05-16 01:47:47"
+  }
+]
